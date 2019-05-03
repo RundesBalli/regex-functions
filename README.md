@@ -1,2 +1,2 @@
 # regex-functions
-collection of regex functions
+Collection of my regex functions
