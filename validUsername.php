@@ -1,6 +1,7 @@
 <?php
 /**
  * Function to validate usernames from pr0gramm.com
+ * @see https://github.com/RundesBalli/regex-functions/blob/master/validUsername.php
  * 
  * @param string The username to be checked.
  * 
