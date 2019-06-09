@@ -1,6 +1,7 @@
 <?php
 /**
  * Function to extract URLs from a text. Additionally it is checked if the URL is valid (Check DNS if there is an A-Record)
+ * @see https://github.com/RundesBalli/regex-functions/blob/master/getURLs.php
  * 
  * @param string The text.
  * 
